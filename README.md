@@ -8,3 +8,8 @@ A repository that contains A to Z about facebook's amazing and must have tools a
 Bring your biggest AR ideas to life, no matter your level of expertise. Get Spark AR Studio and unlock a whole new world of possibilities.
 
 https://sparkar.facebook.com/ar-studio
+
+
+### How to Learn?
+Everything you need to know to create an interactive augmented reality experience.
+https://sparkar.facebook.com/ar-studio/learn/documentation/guides
