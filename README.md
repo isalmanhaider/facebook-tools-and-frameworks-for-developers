@@ -12,4 +12,5 @@ https://sparkar.facebook.com/ar-studio
 
 ### How to Learn?
 Everything you need to know to create an interactive augmented reality experience.
+
 https://sparkar.facebook.com/ar-studio/learn/documentation/guides
