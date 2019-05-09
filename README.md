@@ -18,7 +18,10 @@ Everything you need to know to create an interactive augmented reality experienc
 https://sparkar.facebook.com/ar-studio/learn/documentation/guides
 
 
+<img src="https://raw.githubusercontent.com/isalmanhaider/facebook-tools-and-frameworks-for-developers/master/images/pytorch-logo.png">
+
 ### 2. PyTorch
 An open source deep learning platform that provides a seamless path from research prototyping to production deployment.
 
 https://pytorch.org
+
